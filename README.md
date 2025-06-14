@@ -5,7 +5,11 @@
 Overview of the main **categories** 
 
 [#opinion-pieces](https://bsky.app/hashtag/opinion-pieces?author=robbeside.bsky.social)
-#opinion-pieces #development-work #foreign-affairs #diplomacy #software #engineering #industry #data #financial-statements #projects #economy #hr #books #psychology #sociology #philosophy #communication #base-camp #headspace #lifestyle #time-logs #food-diary #talks #board-meetings #photos
+[#development-work](https://bsky.app/hashtag/development-work?author=robbeside.bsky.social)
+
+ 
+ 
+  #foreign-affairs #diplomacy #software #engineering #industry #data #financial-statements #projects #economy #hr #books #psychology #sociology #philosophy #communication #base-camp #headspace #lifestyle #time-logs #food-diary #talks #board-meetings #photos
 
 **Subcategories**
 
