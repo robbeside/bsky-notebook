@@ -27,7 +27,7 @@ lifestyle &nbsp;[#architecture](https://bsky.app/hashtag/architecture?author=rob
 
 ---
 
-I use this repository for posts that are too long for my Bluesky account & often require a little more analytics. 
+I use this repository for posts that are too long for my Bluesky account. 
 I don't make an effort to make it look good. It is a notebook filled with raw sketches, ideas, and analyses. 
 
 
