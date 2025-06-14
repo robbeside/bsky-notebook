@@ -1,5 +1,5 @@
 📘A small notebook. 
-... an extension of the work on [ my Bluesky account. ]([https://link-url-here.org](https://bsky.app/profile/robbeside.bsky.social))
+... an extension of the work on [my Bluesky account.](https://bsky.app/profile/robbeside.bsky.social)
 
 ---
 Overview of the main **categories** 
