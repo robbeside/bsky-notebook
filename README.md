@@ -14,13 +14,15 @@ industry  &nbsp; [#mining](https://bsky.app/hashtag/mining?author=robbeside.bsky
 [#raw-materials](https://bsky.app/hashtag/raw-materials?author=robbeside.bsky.social)
 [#power-grid](https://bsky.app/hashtag/power-grid?author=robbeside.bsky.social)
 [#electricity](https://bsky.app/hashtag/electricity?author=robbeside.bsky.social) </br>
+projects  &nbsp; [#drone](https://bsky.app/hashtag/drone?author=robbeside.bsky.social) </br>
 economy  &nbsp; [#accounting](https://bsky.app/hashtag/accounting?author=robbeside.bsky.social)
 [#company-profiles](https://bsky.app/hashtag/company-profiles?author=robbeside.bsky.social) </br>
 lifestyle &nbsp;[#architecture](https://bsky.app/hashtag/architecture?author=robbeside.bsky.social)
 [#travel](https://bsky.app/hashtag/travel?author=robbeside.bsky.social)
 [#kitchen](https://bsky.app/hashtag/kitchen?author=robbeside.bsky.social)
 [#farming](https://bsky.app/hashtag/farming?author=robbeside.bsky.social)
-[#fashion](https://bsky.app/hashtag/fashion?author=robbeside.bsky.social)
+[#fashion](https://bsky.app/hashtag/fashion?author=robbeside.bsky.social) 
+
 
 ---
 
