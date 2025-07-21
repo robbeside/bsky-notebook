@@ -1,3 +1,7 @@
+<img src="/img/me.jpg"  />
+
+<img src="https://cdn.bsky.app/img/avatar/plain/did:plc:sdiaqiqxnfxmqkz2wbfphmnb/bafkreicxy3xbjwpo73fhnqwwm4snjhukhbylvge6xajvgfqoi6syb6tn3e@jpeg" alt="Pasted image 20250609171734.png" width="300" />
+
 📘A small notebook. 
 ... an extension of the work on [my Bluesky account](https://bsky.app/profile/robbeside.bsky.social) 
 
@@ -14,7 +18,7 @@ industry  &nbsp; [#mining](https://bsky.app/hashtag/mining?author=robbeside.bsky
 [#raw-materials](https://bsky.app/hashtag/raw-materials?author=robbeside.bsky.social)
 [#power-grid](https://bsky.app/hashtag/power-grid?author=robbeside.bsky.social)
 [#electricity](https://bsky.app/hashtag/electricity?author=robbeside.bsky.social) </br>
-financial statements (#fin_stat_<project_name) &nbsp; [#fin_stat_travel-china25](https://bsky.app/hashtag/fin_stat_travel-china25?author=robbeside.bsky.social) </br>
+financial statements (#fin_stat_<project_name>) &nbsp; [#fin_stat_travel-china25](https://bsky.app/hashtag/fin_stat_travel-china25?author=robbeside.bsky.social) </br>
 projects  &nbsp; [#drone](https://bsky.app/hashtag/drone?author=robbeside.bsky.social) </br>
 economy  &nbsp; [#accounting](https://bsky.app/hashtag/accounting?author=robbeside.bsky.social)
 [#company-profiles](https://bsky.app/hashtag/company-profiles?author=robbeside.bsky.social) </br>
