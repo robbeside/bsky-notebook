@@ -1,4 +1,3 @@
-robbeside.com
 [robbeside.com](https://robbeside.com)
 
 📘A small notebook. 
