@@ -1,6 +1,4 @@
-<img src="/img/me.jpg" alt="me profile pic" width="150" />
-
-<img src="https://cdn.bsky.app/img/avatar/plain/did:plc:sdiaqiqxnfxmqkz2wbfphmnb/bafkreicxy3xbjwpo73fhnqwwm4snjhukhbylvge6xajvgfqoi6syb6tn3e@jpeg" alt="Pasted image 20250609171734.png" width="300" />
+<img src="/img/me.jpg" alt="me profile pic" width="250" />
 
 📘A small notebook. 
 ... an extension of the work on [my Bluesky account](https://bsky.app/profile/robbeside.bsky.social) 
