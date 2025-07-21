@@ -1,7 +1,5 @@
-[robbeside.com](https://robbeside.com)
-
 📘A small notebook. 
-... an extension of the work on [my Bluesky account](https://bsky.app/profile/robbeside.bsky.social)
+... an extension of the work on [my Bluesky account](https://bsky.app/profile/robbeside.bsky.social) (= [robbeside.com](https://robbeside.com))
 
 ---
 **categories** 
@@ -16,6 +14,7 @@ industry  &nbsp; [#mining](https://bsky.app/hashtag/mining?author=robbeside.bsky
 [#raw-materials](https://bsky.app/hashtag/raw-materials?author=robbeside.bsky.social)
 [#power-grid](https://bsky.app/hashtag/power-grid?author=robbeside.bsky.social)
 [#electricity](https://bsky.app/hashtag/electricity?author=robbeside.bsky.social) </br>
+financial statements (#fin_stat_<project_name) &nbsp; [#fin_stat_travel-china25](https://bsky.app/hashtag/fin_stat_travel-china25?author=robbeside.bsky.social) </br>
 projects  &nbsp; [#drone](https://bsky.app/hashtag/drone?author=robbeside.bsky.social) </br>
 economy  &nbsp; [#accounting](https://bsky.app/hashtag/accounting?author=robbeside.bsky.social)
 [#company-profiles](https://bsky.app/hashtag/company-profiles?author=robbeside.bsky.social) </br>
@@ -28,7 +27,6 @@ lifestyle &nbsp;[#architecture](https://bsky.app/hashtag/architecture?author=rob
 
 ---
 
-I use this repository for posts that are too long for my Bluesky account. 
-I don't make an effort to make it look good. It is a notebook filled with raw sketches, ideas, and analyses. 
+
 
 
