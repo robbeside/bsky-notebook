@@ -1,3 +1,6 @@
+robbeside.com
+[robbeside.com](https://robbeside.com)
+
 📘A small notebook. 
 ... an extension of the work on [my Bluesky account](https://bsky.app/profile/robbeside.bsky.social)
 
