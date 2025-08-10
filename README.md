@@ -3,7 +3,6 @@
 📘A small notebook. 
 ... an extension of the work on [my Bluesky account](https://bsky.app/profile/robbeside.bsky.social) 
 
-📖 My library: [goodreads.com/robbeside](https://goodreads.com/robbeside)
 ---
 **categories** 
 
