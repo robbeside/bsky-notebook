@@ -43,5 +43,5 @@ lifestyle &nbsp;[#architecture](https://bsky.app/hashtag/architecture?author=rob
 ---
 
 
-[📜feedback form](https://tr.ee/ssbi3ooWPM)  [📔goodreads](https://www.goodreads.com/user/show/159253937-robbeside)   </i>
+[📜feedback](https://tr.ee/ssbi3ooWPM)  [📔goodreads](https://www.goodreads.com/user/show/159253937-robbeside)   </i>
 <!--- [time-logs](https://tr.ee/ssbi3ooWPM)  [food diary](https://tr.ee/IxwgCelh2w)   -->
